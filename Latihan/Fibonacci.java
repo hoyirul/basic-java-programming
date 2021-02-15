@@ -23,7 +23,7 @@ public class Fibonacci {
     print("Masukkan jumlah deret bilangan fibonacci: ");
     int n = scan.nextInt();
     
-    print("Hasil bilangan fibonacci: ");
+    System.out.print("Nilai n " + n + " Hasil bilangan fibonacci : ");
     for (i = 0; i < n; i++){
       print(rekursif(j)+", ");
       j++;
