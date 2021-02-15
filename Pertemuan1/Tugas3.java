@@ -1,22 +1,26 @@
 import java.util.Scanner;
 class Tugas3{
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 
-		int x = 0, count = 0;
 		print("Masukkan Nilai N : ");
-		int n = sc.nextInt();
+		int y = in.nextInt();
 
-		for (int i=0;i<=n;i++) {
-			// x += i + 1;
-			count += 2;
-			if (count % 2 == 0) {
-				if (count % 4 == 0) {
+		bilGenap(y);
+	}
+
+	static void bilGenap(int y){
+		int x = 0, i = 0 , z = 0;
+		do{
+			z += 2;
+			if (z % 2 == 0) {
+				if (z % 4 == 0) {
 					continue;
 				}
-				print(count + ",");
+				print(z + ",");
 			}
-		}
+			i++;
+		}while(i < y);
 	}
 
 	static void println(String str){
