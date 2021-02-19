@@ -28,7 +28,9 @@
      - <img src="./screenshot/Number1_Code2.png">
    * Output
      - <img src="./screenshot/Number1_Output.png">
-2. * Source code
+2. * Class Diagram
+     - <img src="./screenshot/Class_Diagram_Number2.jpg">
+   * Source code
      - <img src="./screenshot/Number2_Code.png">
      - <img src="./screenshot/Number2_Code2.png">
      - <img src="./screenshot/Number2_Code3.png">
