@@ -9,7 +9,7 @@
     * tambahStok(int n), -> menambah stok barang
     * kurangiStok(int n), -> mengurangi stok barang
     * hitungHargaTotal(int jumlah) -> menghitung total dari jumlah pembelian barang
-5. <img src="2.2.3 Nomor5.png">
+5. <img src="2_2_3_Nomor5.png">
 6. Untuk mengurangi jumlah stok yang ada menggunakan bilangan bulat n
 7. karena untuk penjumlahan aritmatika
 8. karna tidak mengembalikan nilai
@@ -20,7 +20,7 @@
 ### 2.4.3 Pertanyaan
 1. Pada baris 18 hingga 23
 2. Membuat objek baru dengan menggunakan konstruktor berparameter
-3. <img src="2.4.3 Nomor3.png">
+3. <img src="2_4_3_Nomor3.png">
 
 ## 2.5 Latihan Praktikum
 1. * Source code-
