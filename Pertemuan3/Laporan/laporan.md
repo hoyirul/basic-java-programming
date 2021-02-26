@@ -22,8 +22,10 @@
 4. <img src="./screenshot/3_4_3_Nomor4.png">  
 5. <img src="./screenshot/3_4_3_Nomor5.png">  
 
-## 3.5 Latihan Praktikum
+# 
+# 3.5 Latihan Praktikum
 
+## Nomor 1
 1.  Code
     * <img src="./screenshot/codeno1_1.png">
     * <img src="./screenshot/codeno1_2.png">
@@ -32,28 +34,32 @@
     * <img src="./screenshot/codeno1_5.png">
     Ouput
     * <img src="./screenshot/outputno1_1.png">
+## Nomor 2
 2.  Code
     * <img src="./screenshot/codeno2_1.png">
     * <img src="./screenshot/codeno2_2.png">
     Ouput
     * <img src="./screenshot/outputno2_1.png">
+## Nomor 3
 3.  Code
     * <img src="./screenshot/codeno3_1.png">
     * <img src="./screenshot/codeno3_2.png">
     * <img src="./screenshot/codeno3_3.png">
     Ouput
     * <img src="./screenshot/outputno3_1.png">
+## Nomor 4
 4.  Code
     * <img src="./screenshot/codeno4_1.png">
     * <img src="./screenshot/codeno4_2.png">
     * <img src="./screenshot/codeno4_3.png">
     Ouput
     * <img src="./screenshot/outputno4_1.png">
+## Nomor 5
 5.  Code
     * <img src="./screenshot/codeno5_1.png">
     * <img src="./screenshot/codeno5_2.png">
     * <img src="./screenshot/codeno5_3.png">
-    * <img src="./screenshot/codeno5_3.png">
+    * <img src="./screenshot/codeno5_4.png">
     Ouput
-    * <img src="./screenshot/outputno4_1.png">
+    * <img src="./screenshot/outputno5_1.png">
 
