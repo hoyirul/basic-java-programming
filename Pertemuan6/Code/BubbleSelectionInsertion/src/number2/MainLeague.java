@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class MainLeague {
     public static void main(String[] args) {
         PremierLeagueService lists = new PremierLeagueService();
-        
+
         PremierLeague p1 = new PremierLeague("Liverpool      ", 29, 45, 82);
         PremierLeague p2 = new PremierLeague("Mancester City ", 27, 39, 57);
         PremierLeague p3 = new PremierLeague("Licester       ", 28, 26, 50);
@@ -34,7 +34,7 @@ public class MainLeague {
         PremierLeague p18 = new PremierLeague("AFC Bournemoun ", 29, -18, 27);
         PremierLeague p19 = new PremierLeague("Aston Villa    ", 27, -18, 27);
         PremierLeague p20 = new PremierLeague("Norwich City   ", 29, -27, 21);
-        
+
         lists.tambah(p1);
         lists.tambah(p2);
         lists.tambah(p3);
@@ -55,13 +55,13 @@ public class MainLeague {
         lists.tambah(p18);
         lists.tambah(p19);
         lists.tambah(p20);
-        
+
         System.out.println("----------------------------");
         System.out.println("DATA SEBELUM DI SORTING");
         System.out.println("----------------------------");
         lists.tampilAll();
         System.out.println("----------------------------");
-        
+
         System.out.println("DATA SETELAH DI SORTING ASC");
         System.out.println("----------------------------");
         lists.insertionSort(true);

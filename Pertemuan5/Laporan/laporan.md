@@ -10,4 +10,9 @@
     * Proses combine:
         - return fakto;
 3. Ya memungkinkan
-    - <img src="./screenshot/">
+    - <img src="./screenshots/2.png">
+4. Jawab
+    - <img src="./screenshots/4.png">
+5. Jawab
+    - <img src="./screenshots/5.png">
+    - <img src="./screenshots/5.1.png">
