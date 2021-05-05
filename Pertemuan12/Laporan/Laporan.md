@@ -12,13 +12,15 @@ Double linked lists 	: memiliki dua pointer yaitu next dan prev
 ## Pertanyaan 12.3.3
 1.	Pada method removeFirst(), kode tersebut berarti bahwa data paling awal (head) sama dengan node selanjutnya setelah head, dan node sebelum head masih kosong
 2.	Untuk mengetahui data yang ada pada bagian akhir pada method removeLast() adalah dilihat pada kondisinya, jika memenuhi kondisi head.next == null maka dapat diartikan node selanjutnya setelah head bernilai kosong (cek lagi om, aku gayakin)
-3.	(Tadi katanya suruh lewati)
-4.	(gatau juga, maaf ya)
+3. karena data atau node yang diproses langsung merujuk pada head tanpa menggunakan node bantuan seperti tmp
+4. kegunaan dari kode program di atas adalah untuk memindahkan rujukan
+node.next pada node.next.next atau dengan kata lain melewati satu node yang dipilih
+utuk dihapus.
 
 ## Pertanyaan 12.4.3
 1.	Method tersebut digunakan untuk me-return jumlah(size) linked lists yang sudah di update
-2.	(gatau, plis jgn kesel udah nyari di google baca ga nemu nemu)
-3.	(yg double linked lists tambah ribet, gatau deng hehe)
+2. agar indeks dimulai pada indeks ke-1 hal yang harus dilakukan adalah mengganti posisi head dengan head.next
+3.	jika pada single linked list saat menambah data hanya memperhatikan data.next sedangkan pada double linked list memperhatikan data.next dan juga data.prev
 4.	Perbedaan logika dari keduanya adalah dimana untuk yang a dilakukan pengecekan kondisi terlebih dahulu, apakah size == 0 atau tidak. Jika iya, maka me-return true dan jika tidak memenuhi maka akan mereturn false. Untuk kode program yang b adalah jika menggunakan method tersebut maka akan langsung menjalankan statement nya yaitu me-return head sama dengan null atau kosong
 
 
