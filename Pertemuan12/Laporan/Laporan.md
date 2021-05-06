@@ -11,7 +11,7 @@ Double linked lists 	: memiliki dua pointer yaitu next dan prev
 
 ## Pertanyaan 12.3.3
 1.	Pada method removeFirst(), kode tersebut berarti bahwa data paling awal (head) sama dengan node selanjutnya setelah head, dan node sebelum head masih kosong
-2.	Untuk mengetahui data yang ada pada bagian akhir pada method removeLast() adalah dilihat pada kondisinya, jika memenuhi kondisi head.next == null maka dapat diartikan node selanjutnya setelah head bernilai kosong (cek lagi om, aku gayakin)
+2.	Untuk mengetahui data yang ada pada bagian akhir pada method removeLast() adalah dilihat pada kondisinya, jika memenuhi kondisi head.next == null maka dapat diartikan node selanjutnya setelah head bernilai kosong
 3. karena data atau node yang diproses langsung merujuk pada head tanpa menggunakan node bantuan seperti tmp
 4. kegunaan dari kode program di atas adalah untuk memindahkan rujukan
 node.next pada node.next.next atau dengan kata lain melewati satu node yang dipilih
