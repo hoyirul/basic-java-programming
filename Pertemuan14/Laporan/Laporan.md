@@ -38,7 +38,7 @@
 -  Output
    * <img src="./screenshots/output1.png">
 
-#### Nomor 1-4
+#### Nomor 5
 -  Code
    * <img src="./screenshots/code2.png">
    * <img src="./screenshots/code2.1.png">
