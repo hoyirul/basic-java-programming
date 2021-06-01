@@ -40,5 +40,7 @@
 
 #### Nomor 1-4
 -  Code
+   * <img src="./screenshots/code2.png">
+   * <img src="./screenshots/code2.1.png">
 -  Output
 
