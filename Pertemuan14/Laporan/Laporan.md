@@ -16,3 +16,29 @@
 4. * Posisi left child = 2(2*i+1) -> (2*2+1) = 5
    * Posisi right child = (2*i+2) -> (2*2+2) = 6
 5. Sebagai penentu panjang indeks array yang akan diimplementasikan. Seperti pada percobaan , data yang diambil dan digunakan ke dalam tree adalah indeks ke 6
+
+### 13.5 Tugas Praktikum
+#### Nomor 1-4
+-  Code
+   * <img src="./screenshots/code1.png">
+   * <img src="./screenshots/code1.1.png">
+   * <img src="./screenshots/code1.2.png">
+   * <img src="./screenshots/code1.3.png">
+   * <img src="./screenshots/code1.4.png">
+   * <img src="./screenshots/code1.5.png">
+   * <img src="./screenshots/code1.6.png">
+   * <img src="./screenshots/code1.7.png">
+   * <img src="./screenshots/code1.8.png">
+   * <img src="./screenshots/code1.9.png">
+   * <img src="./screenshots/code1.10.png">
+   * <img src="./screenshots/code1.11.png">
+   * <img src="./screenshots/code1.12.png">
+   * <img src="./screenshots/code1.13.png">
+   * <img src="./screenshots/code1.14.png">
+-  Output
+   * <img src="./screenshots/output1.png">
+
+#### Nomor 1-4
+-  Code
+-  Output
+
