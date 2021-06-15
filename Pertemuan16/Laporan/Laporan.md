@@ -37,11 +37,11 @@
 ### TUGAS
 #### Nomor 1
 -  Code
-   * <img src="./screenshots/CodeNo1.0.png">
-   * <img src="./screenshots/CodeNo1.1.png">
-   * <img src="./screenshots/CodeNo1.2.png">
-   * <img src="./screenshots/CodeNo1.3.png">
-   * <img src="./screenshots/CodeNo1.4.png">
+   * <img src="./screenshots/codeNo1.0.png">
+   * <img src="./screenshots/codeNo1.1.png">
+   * <img src="./screenshots/codeNo1.2.png">
+   * <img src="./screenshots/codeNo1.3.png">
+   * <img src="./screenshots/codeNo1.4.png">
 -  Output
    * <img src="./screenshots/outputNo1.0.png">
    * <img src="./screenshots/outputNo1.1.png">
@@ -49,16 +49,16 @@
 
 #### Nomor 2
 -  Code
-   * <img src="./screenshots/CodeNo2.0.png">
-   * <img src="./screenshots/CodeNo2.1.png">
-   * <img src="./screenshots/CodeNo2.2.png">
-   * <img src="./screenshots/CodeNo2.3.png">
-   * <img src="./screenshots/CodeNo2.4.png">
-   * <img src="./screenshots/CodeNo2.5.png">
-   * <img src="./screenshots/CodeNo2.6.png">
-   * <img src="./screenshots/CodeNo2.7.png">
-   * <img src="./screenshots/CodeNo2.8.png">
-   * <img src="./screenshots/CodeNo2.9.png">
+   * <img src="./screenshots/codeNo2.0.png">
+   * <img src="./screenshots/codeNo2.1.png">
+   * <img src="./screenshots/codeNo2.2.png">
+   * <img src="./screenshots/codeNo2.3.png">
+   * <img src="./screenshots/codeNo2.4.png">
+   * <img src="./screenshots/codeNo2.5.png">
+   * <img src="./screenshots/codeNo2.6.png">
+   * <img src="./screenshots/codeNo2.7.png">
+   * <img src="./screenshots/codeNo2.8.png">
+   * <img src="./screenshots/codeNo2.9.png">
 -  Output
    * <img src="./screenshots/outputNo2.0.png">
    * <img src="./screenshots/outputNo2.1.png">
